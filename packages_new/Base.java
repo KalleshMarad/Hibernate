@@ -2,7 +2,7 @@ package pack1;
 public class Base
 {
 	
-	private int a = 010;
+	private int a = 20;
 	int b = 20;
 	protected int c = 30;
 	public int d = 40;
